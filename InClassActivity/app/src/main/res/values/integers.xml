@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="image_ids">
+        <item>@drawable/ccf_caramelapple</item>
+        <item>@drawable/ccf_celebration</item>
+        <item>@drawable/ccf_chocolatecaramelicious</item>
+        <item>@drawable/ccf_cinnaboncinnamoncwirl</item>
+        <item>@drawable/ccf_coconutcreampie</item>
+        <item>@drawable/ccf_freshstrawberry</item>
+        <item>@drawable/ccf_godiva</item>
+        <item>@drawable/ccf_lowlicious</item>
+        <item>@drawable/ccf_pineappleupsidedown</item>
+        <item>@drawable/ccf_saltedcaramel</item>
+    </integer-array>
+</resources>
